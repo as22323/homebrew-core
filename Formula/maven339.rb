@@ -5,7 +5,6 @@ class Maven < Formula
   stable do
     url "https://www.apache.org/dyn/closer.cgi?path=maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.tar.gz"
     mirror "https://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.tar.gz"
-    sha1 "5b4c117854921b527ab6190615f9435da730ba05"
   end
 
   bottle :unneeded

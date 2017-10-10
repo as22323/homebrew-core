@@ -1,4 +1,4 @@
-class Maven < Formula
+class Maven339 < Formula
   desc "Java-based project management"
   homepage "https://maven.apache.org/"
 
